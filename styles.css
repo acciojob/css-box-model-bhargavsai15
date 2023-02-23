@@ -1,14 +1,11 @@
 
-.parent p{
-  width: 300px;
-  background-color: aqua;
-  padding: 50px;
-  border: 15px solid blue;
-  margin: 20px;
-}
+
 
 .parent{
-  border: 1px solid black;
-  display: inline-block;
+  width: 300px;
+  padding: 50px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  margin: 20px;
 }
 
